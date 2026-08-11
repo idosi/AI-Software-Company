@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "ai_software_company": "./main.py:graph"
+  },
+  "env": ".env"
+}

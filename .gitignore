@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+outputs/prd/*.md
+outputs/code/*.md
+outputs/docker/*
+outputs/marketing/*.md
